@@ -25,7 +25,7 @@ export default function Projects() {
         { name: 'CSS', img: 'https://img.icons8.com/fluency/512/css3.png' },
         { name: 'JavaScript', img: 'https://img.icons8.com/color/512/javascript.png' },
       ],
-      github: 'https://github.com/hrishi2108/B43_WEB_019_The-Stylists',
+      github: 'https://github.com/hrishi2108/Coursera_Clone.git',
       live: 'https://roaring-paprenjak-7e24e2.netlify.app',
       image: '/projects/coursera.png'
     },
@@ -54,7 +54,7 @@ Includes like/dislike and responsive UI.`,
         { name: 'CSS', img: 'https://img.icons8.com/fluency/512/css3.png' },
         { name: 'JavaScript', img: 'https://img.icons8.com/color/512/javascript.png' },
       ],
-      github: 'https://github.com/hrishi2108/code_crafters.git',
+      github: 'https://github.com/hrishi2108/CollabNest.git',
       live: 'https://peppy-parfait-010778.netlify.app/',
       image: 'projects/collabnest.png'
     }
